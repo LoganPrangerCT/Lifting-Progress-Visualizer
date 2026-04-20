@@ -6,9 +6,9 @@ pip install pandas matplotlib numpy
 Usage:
 Place your workout data in CSV files named `Lifts - Push.csv`, `Lifts - Pull.csv`, and `Lifts - Legs.csv`.
 
-Format: first column is date (MM/DD/YYYY), subsequent columns are exercises. Each cell is "reps x weight" (e.g., `6x225`).
+Format: first column is date (MM/DD/YYYY), subsequent columns are exercises. Each cell is 'reps x weight' (e.g., `6x225`).
 
-## data format example
+## Data format example
 
 | Date      | Bench | Incline DB |
 |-----------|-------|------------|
